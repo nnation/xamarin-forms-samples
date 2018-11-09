@@ -10,7 +10,7 @@ namespace MasterDetailPageNavigation
 			Content = new StackLayout { 
 				Children = {
 					new Label {
-						Text = "Contacts data goes here",
+						Text = "Contacts data goes here Nathaniel",
 						HorizontalOptions = LayoutOptions.Center,
 						VerticalOptions = LayoutOptions.CenterAndExpand
 					}
